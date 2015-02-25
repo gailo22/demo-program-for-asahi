@@ -1,0 +1,1 @@
+## This is legacy java program that i wrote for more than 10 years ago cause me could go to Japan
